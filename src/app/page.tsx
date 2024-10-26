@@ -24,14 +24,14 @@ export default function Home() {
   return (
     <div className='flex flex-col w-full h-full items-center justify-center gap-6'>
       <div className='flex flex-col text-center mt-10 gap-2'>
-        <h1 className='text-2xl sm:text-4xl font-bold text-[#434242]'>Viúvo passa fome com os 2 filhos pequenos em barraco sem água e banheiro</h1>
+        <h1 className='text-2xl sm:text-4xl font-bold text-[#434242]'>Menina com distrofia muscular vive 24h em cama e tem dias que precisa escolher entre comer ou comprar remédio</h1>
       </div>
       <div className='flex flex-col lg:flex-row  items-start gap-8 mt-5 w-full'>
         <Card className="flex flex-col sm:px-2 sm:py-2 w-full border-b">
             <CardContent className='flex flex-row gap-1 py-2 w-full'>
               <div className="relative w-full lg:h-auto sm:relative sm:w-full">
                 <img
-                  src="https://www.ongsalvacao.com/wp-content/uploads/2024/10/d9f3bec8-518f-4078-abe1-7b8a19749126.png"
+                  src="https://www.ongsalvacao.com/wp-content/uploads/2024/10/3213124414-768x432.png"
                   alt="avatar"
                   className="w-auto  max-w-full max-h-full rounded-md object-contain object-center"
                 />
@@ -90,47 +90,33 @@ export default function Home() {
                 </span><br />
 
                 <span className='font-bold'>
-                  Eles perderam a mãe, e diante de tanta saudade, ainda sofrem com a fome… não pedem brinquedo.
+                  Estamos apaixonados pela Mari. Mesmo vivendo 24h numa cama, devido a distrofia muscular congênita, ela não deixa de sorrir e de agradecer pela vida.
                 </span><br />
 
-                Vitória de 11 anos pede um banheiro, “um banheiro de gente”. Já o Samuel, de 9 anos, mostra o seu sapato todo rasgado e pede um tênis preto pra ir à escola.<br /> 
+                Vaidosa, está sempre arrumada, com cabelos e unhas feitas!<br /> 
 
-                Daniel ficou viúvo e sozinho com os filhos. Moram num barraco de apenas um cômodo em Presidente Figueiredo (AM) que ele mesmo construiu.<br /> 
+                Mari tem 14 anos e vive com a mãe e o irmão em São Sebastião de Lagoa da Roça, na Paraíba. Há 3 anos perdeu o pai, que era o alicerce da casa.<br /> 
 
                 <span className='font-bold'>
-                Vivem isolados, sem água encanada e sem banheiro…
+                Preocupada, ela conta que fica triste quando a mãe precisa escolher entre comprar comida ou seus remédios… passam muitas necessidades mesmo. Tem dias que falta o básico em casa.
                 </span>
               </p>
               <div className="relative w-full">
-                <img src="https://www.ongsalvacao.com/wp-content/uploads/2024/10/45514008-18fa-4701-846b-5d45645ed14e.jpeg" alt="" className="w-full lg:h-[400px] object-contain object-center" />
+                <img src="https://www.ongsalvacao.com/wp-content/uploads/2024/10/dd1ff602-7650-4026-aee0-a84cc212560b-768x435.png" alt="" className="w-full lg:h-[400px] object-contain object-center" />
               </div>
               <p className='leading-[35px] text-[16px]'>
-                 Sua esposa e mãe das crianças, Celiuza, faleceu há 1 ano, aos 47 anos de idade, após uma dolorosa batalha contra o câncer. 
+                Devido a isso, Mari está está com com desnutrição severa, pois sua alimentação deveria ser bem especial com proteínas e vitaminas.
                 <br />
-                Eles estavam juntos havia 19 anos, e a morte dela desestruturou a família. Celiza ajudava na renda de casa fazendo faxinas enquanto as crianças ficavam na escola.
-                <br />
-                Sem apoio e enfrentando conflitos com a família da esposa, que segundo Daniel, não tratava bem seus filhos, deixou Manaus e se mudou para o interior, onde construiu com as próprias mãos esse cômodo.
+                Ela também está com escoliose e passa boa parte de seu tempo em cima da cama. Não tem movimentos nos braços e nem nas pernas e precisa de ajuda para tudo. Usa fraldas 24h.
                 <br />
                 <span className='font-bold'>
-                Apesar das dificuldades, esse pai faz de tudo para manter os filhos na escola, enquanto tenta garantir o sustento.
+                Mari nos contou que quer muito voltar pra escola, mas sem a cadeira, fica impossível. Era seu pai que a levava, mas agora, não tem condições mesmo de ir.
                 </span>
+                A vaquinha é para conseguir nesse primeiro momento todo o tratamento pra ela, como fisio, fono, pneumologista, exames genéticos (porque ela pode ter outras síndromes), psicólogo, psiquiatra e neurologistas. E, a cadeira de rodas adaptada.
                 <br />
-              </p>
-              <div className="relative w-full">
-                <img src="https://www.ongsalvacao.com/wp-content/uploads/2024/10/02d7d7f8-6f2b-4dd5-beea-13cdf764ab3b.jpeg" alt="" className="w-full lg:h-[400px] object-contain object-center" />
-              </div>
-              <p className='leading-[35px] text-[16px]'>
-                Daniel faz bicos limpando terrenos e capinando, são trabalhos exaustivos que pagam pouco e exigem muito esforço físico.
+                Ela tem uma bem velhinha, mas devido a escoliose, ela fica até com falta de ar, pois a postura acaba comprimindo o pulmão.
                 <br />
-                <span className='font-bold'>
-                A situação é tão difícil que, quando Daniel consegue uma marmita após um dia de trabalho, ele a guarda para que seus filhos tenham algo para comer à noite, muitas vezes passando o dia sem se alimentar. 
-                </span>
-                <br />
-                Daniel e seus filhos precisam urgentemente de ajuda. Ele pede uma carroceria para catar recicláveis, acredita que vai ajudar muito na renda.
-                <br />
-                Seu sonho é uma casa, nem que seja simples, para viverem melhor. @gestosdebondade está com a gente nessa história.
-                <br />
-                A vaquinha é para a compra de uma moto e carroceria, e construir uma casa digna com móveis e eletrodomésticos.
+                Ela também precisa de um bipap para conseguir dormir melhor à noite. Quando ela dorme, a saturação cai muito e sua mãe tem medo dela morrer.
                 <br />
                 <span className='font-bold'>
                 O nome do doador não aparecerá na lista de doadores, mas o valor doado será contabilizado na campanha normalmente.
